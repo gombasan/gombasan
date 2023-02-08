@@ -1,7 +1,7 @@
 ### 👋 안녕하세요.
 
 ## About me
-<a href ="https://www.notion.so/b9e7074605f24c22bbaf8e0377e5cc2f"><img src="https://img.shields.io/badge/portfolio-white?style=flat-square&logo=notion&logoColor=black"/><a/>
+<a href ="https://immediate-shrine-afc.notion.site/b9e7074605f24c22bbaf8e0377e5cc2f"><img src="https://img.shields.io/badge/portfolio-white?style=flat-square&logo=notion&logoColor=black"/><a/>
 <a href ="https://velog.io/@gombasan"><img src="https://img.shields.io/badge/blog-white?style=flat-square&logo=velog&logoColor=black"/><a/>
 
   
