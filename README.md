@@ -1,12 +1,29 @@
-### Hi there 👋
+### 👋 안녕하세요.
 
+## About me
+<a href ="https://www.notion.so/b9e7074605f24c22bbaf8e0377e5cc2f"><img src="https://img.shields.io/badge/portfolio-white?style=flat-square&logo=notion&logoColor=black"/><a/>
+<a href ="https://velog.io/@gombasan"><img src="https://img.shields.io/badge/blog-white?style=flat-square&logo=velog&logoColor=black"/><a/>
 
-<h1>Skill<h1>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JS-white?style=flat&logo=JavaScript&logoColor=F7dF1E"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-white?style=flat&logo=OpenJDK&logoColor=black"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor=6DB33F"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringSecurity-white?style=flat&logo=SpringSecurity&logoColor=6DB33F"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=MariaDB&logoColor=003545"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=E34F26"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-white?style=flat&logo=CSS3&logoColor=1572B6"/></a>
+  
+  <!-- status bar -->
+
+  
+  ## Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</p>
+
+## Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+</p>
+
+  ## Status
+  <img src="https://github-readme-stats.vercel.app/api?username=gombasan&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gombasan&layout=compact&theme=dark&hide_border=true" />
