@@ -27,3 +27,4 @@
   ## Status
   <img src="https://github-readme-stats.vercel.app/api?username=gombasan&layout=compact&show_icons=true&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gombasan&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github.com/gombasan/gombasan/blob/output/github-snake.svg" width="100%">
