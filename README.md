@@ -1,30 +1,23 @@
-### 👋 안녕하세요.
+# 안녕하세요, 한태희입니다 👋
 
-## About me
-<a href ="https://immediate-shrine-afc.notion.site/b9e7074605f24c22bbaf8e0377e5cc2f"><img src="https://img.shields.io/badge/portfolio-white?style=flat-square&logo=notion&logoColor=black"/><a/>
-<a href ="https://velog.io/@gombasan"><img src="https://img.shields.io/badge/blog-white?style=flat-square&logo=velog&logoColor=black"/><a/>
+네트워크 엔지니어로 커리어를 시작해, 지금은 **Java와 Spring Boot로 B2B 물류 플랫폼과 IoT 모니터링 시스템을 개발하고 운영합니다.**
 
-  
-  <!-- status bar -->
 
-  
-  ## Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</p>
+[포트폴리오](https://immediate-shrine-afc.notion.site/b9e7074605f24c22bbaf8e0377e5cc2f) · [벨로그](https://velog.io/@gombasan)
 
-## Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
-</p>
 
-  ## Status
-  <img src="https://github-readme-stats.vercel.app/api?username=gombasan&layout=compact&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gombasan&layout=compact&theme=dark&hide_border=true" />
-  <img src="https://github.com/gombasan/gombasan/blob/output/github-snake.svg" width="100%">
+## 기술
+
+- **백엔드** : Java, Spring Boot, Spring Security, JPA, MySQL
+- **장비 통신과 실시간 처리** : TCP/IP, Java NIO, WebSocket, STOMP
+- **배포와 운영** : AWS, Docker, GitHub Actions, Prometheus, Grafana
+
+## 관심사
+
+- 백엔드 아키텍처와 API 설계
+- 데이터베이스와 쿼리 최적화
+- 비동기 처리와 이벤트 기반 아키텍처
+- 실시간 데이터 처리와 메시징
+- 동시성 제어와 트랜잭션
+- 서버 모니터링과 장애 대응
+- 테스트 자동화와 CI/CD
